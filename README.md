@@ -14,7 +14,8 @@ This project demonstrates a modern Medallion Architecture implementation in Micr
 
 ## Architecture
 
-![Architecture](images/fabric-architecture.png)
+<img width="151" height="426" alt="Architektur" src="https://github.com/user-attachments/assets/b389effa-5afc-47af-92e9-03a930401c5e" />
+
 
 ## Data Pipeline
 
@@ -77,11 +78,12 @@ The dashboard provides:
 
 ### Dashboard Screenshot
 
-![Dashboard](images/dashboard.png)
+<img width="1366" height="768" alt="Vertriebsanalyse Dashboard" src="https://github.com/user-attachments/assets/0fc751e1-7c4a-48ce-8584-a60be980bad9" />
 
 ### Data Model
 
-![Data Model](images/data-model.png)
+ <img width="1366" height="768" alt="Semantic_Modell" src="https://github.com/user-attachments/assets/fa836ce7-3961-4ff7-8664-b13f9fce2021" />
+
 
 ## Technologies
 
